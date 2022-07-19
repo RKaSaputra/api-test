@@ -1,0 +1,40 @@
+{
+    "valid-link": [
+        {
+            "id" : 0,
+            "name" : "Kobo Kanaeru",
+            "url" : "www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+            "description" : "Gen 3 - This is a valid link - Test API",
+            "by" : [
+                {
+                "author" : "moociipie",
+                "message" : "Try Message"
+                }
+            ]
+        },
+        {
+            "id" : 1,
+            "name" : "Vestia Zeta",
+            "url" : "www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+            "description" : "Gen 3 - This is a valid link - Test API",
+            "by" : [
+                {
+                "author" : "moociipie",
+                "message" : "Try Message"
+                }
+            ]
+        },
+        {
+            "id" : 2,
+            "name" : "Kaela Kovalskia",
+            "url" : "hwww.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
+            "description" : "Gen 3 - This is a valid link - Test API",
+            "by" : [
+                {
+                "author" : "moociipie",
+                "message" : "Try Message"
+                }
+            ]
+        }
+    ]
+}
